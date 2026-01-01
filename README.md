@@ -173,10 +173,3 @@ This routing algorithm can benefit various real-world sectors:
 **School**: School of Engineering and Applied Science (SEAS), Ahmedabad University  
 **Instructor**: Prof. Dhaval Patel 
 **Semester**: Semester 4 - Winter 2025 
-
-## 🧑‍💻 Authors
-
-- Pratham Sandesara (AU2340239)
-- Purvish Parekh (AU2340128) 
-- Prina Patel (AU2340040)  
-- Priyanka Kapoor (AU2340093)  
